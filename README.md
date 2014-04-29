@@ -1,4 +1,4 @@
 BitSolve
 ========
 
-BitSolve: a open-source white paper
+BitSolve a open-source white paper
